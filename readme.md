@@ -21,6 +21,12 @@
    ## Usage
    To gain an understanding on how different methods can be used on api routes to change or access information in a server database.
    
+   
+
+   https://user-images.githubusercontent.com/87740245/140208465-6b7a7101-a494-4b25-a67c-c481a9859b24.mp4
+
+
+   
    ## License
    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
    <br />
