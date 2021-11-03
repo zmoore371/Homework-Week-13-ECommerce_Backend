@@ -34,8 +34,6 @@ router.post('/', (req, res) => {
     })
 });
 
-// PUT and DELETE both work, however the response is [1] for both. Need to figure out why that is
-
 router.put('/:id', (req, res) => {
   // update a tag's name by its `id` value
   Tag.update(
